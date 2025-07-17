@@ -26,6 +26,7 @@ This project provides insights into the sales data of an organization using a vi
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/snehez/SalesPerformanceAnalysis/main/screenshot2.png)
 
+
 > *Note: If the image doesn't load, ensure the file is named exactly `screenshot2.png` and is uploaded to the root of your repository.*
 
 
